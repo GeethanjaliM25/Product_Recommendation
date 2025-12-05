@@ -1,4 +1,4 @@
-{"id":"53841","variant":"standard","title":"Amazon Beauty Product Recommendation System - README"}
+
 # 🛍️ Amazon Beauty Product Recommendation System
 
 This project is a **machine learning–based recommendation system** that suggests similar Amazon beauty products using collaborative filtering, Truncated SVD, and Cosine Similarity.  
